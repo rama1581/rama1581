@@ -25,7 +25,7 @@ I am currently a fifth-semester university student with a passion for exploring 
 ## 🌐 Connect with my Social Media
 
 - 📧 Email: muhammadzidanramadhan31@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile][([https://www.linkedin.com](https://www.linkedin.com/in/muhammad-zidan-ramadhan-47b9892a8/))]
+- 💼 LinkedIn: [Muhammad Zidan Ramadhan]([https://www.linkedin.com/in/muhammad-zidan-ramadhan-47b9892a8/))]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadZidanRamadhan&color=blue)
 
