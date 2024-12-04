@@ -24,11 +24,10 @@ Although I'm at the start of my career, I'm dedicated to expanding my knowledge 
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with my Social Media
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
-- 🐦 Twitter: [Your Twitter Handle](https://twitter.com)
+- 📧 Email: muhammadzidanramadhan31@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile][(https://www.linkedin.com)](https://www.linkedin.com/in/muhammad-zidan-ramadhan-47b9892a8/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadZidanRamadhan&color=blue)
 
