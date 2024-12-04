@@ -2,25 +2,23 @@
 
 ## ✨ About Me
 
-I'm a 5th-semester student deeply fascinated by **software technology** and **artificial intelligence (AI)**. I thrive in team environments, where I actively contribute to planning and executing activities. My drive to learn and explore emerging technologies fuels my journey to continuously develop my skills and bring innovative ideas to life.
-
-Although I'm at the start of my career, I'm dedicated to expanding my knowledge and taking part in initiatives that sharpen my abilities. My ultimate goal is to craft software solutions that are seamless and user-focused while integrating cutting-edge technological advancements.
+I am currently a fifth-semester university student with a passion for exploring new things, often diving deeper into areas of interest. Additionally, I enjoy experimenting with and working on programming projects.
 
 ---
 
 ## 🎯 Goals
 
-- Broaden my expertise in **software development** and **machine learning**.
-- Build impactful projects that combine **AI** and **software innovations**.
+- Capable of developing well-crafted and functional projects, **including games and software**.
+- Skilled in **collaborating with others** to ensure the success of ongoing projects.
 
 ---
 
 ## 🔧 Skills
 
-- **Backend Development**: Skilled in creating RESTful APIs and implementing Firebase integrations.
-- **Programming Languages**: Python, JavaScript, Java.
-- **Version Control**: Experienced with Git and GitHub for collaborative development.
-- **Tools & Frameworks**: Familiar with Flask, Node.js, and TensorFlow.
+- **Backend Development**: Proficient in building RESTful APIs and integrating Firebase services.
+- **Programming Languages**: Python, JavaScript, Java, Go.
+- **Version Control**: Adept at using Git and GitHub to facilitate teamwork and manage codebases.
+- **Tools & Frameworks**: Experienced in using Node.js and Spring Boot for developing robust and efficient applications.
 
 ---
 
