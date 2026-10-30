@@ -6,7 +6,7 @@ I'm an Informatics student at Telkom University, Indonesia, who enjoys turning i
 
 I believe in learning by building, experimenting with new technologies, and creating projects that solve problems or deliver meaningful experiences.
 
-[Portfolio](https://rama1581.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-zidan-ramadhan-47b9892a8/) · [Email](mailto:muhammadzidanramadhan31@gmail.com)
+[Portfolio](https://rama-portfolio-delta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-zidan-ramadhan-47b9892a8/) · [Email](mailto:muhammadzidanramadhan31@gmail.com)
 
 ---
 
